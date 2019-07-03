@@ -1,0 +1,5 @@
+barebones-jit/
+build/
+test/
+yotta_modules/
+yotta_targets/

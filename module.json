@@ -1,0 +1,11 @@
+{
+  "name": "barebones-jit",
+  "version": "0.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+      "microbit": "lancaster-university/microbit"
+  },
+  "bin": "./source"
+}
